@@ -22,3 +22,7 @@ Um projeto para baixar vídeos do YouTube usando Python, Flask e MySQL, com barr
 - Usar WebSockets para progresso em tempo real.
 - Conectar Python ao MySQL.
 - Baixar vídeos com yt-dlp.
+
+![image](https://github.com/user-attachments/assets/992d3778-fde7-4d5a-be4b-6f53c27301f7)
+![image](https://github.com/user-attachments/assets/4184b5ae-0106-4433-bf59-2ff2f30bbf86)
+
